@@ -1,0 +1,12 @@
+{
+	"name": "sinkdataflowls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://saistorageaccount12356.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEYzMEZBQzlBLTk1RDUtNEQ5OC1BMkU3LTVFRDRCMkJBQjA2OV84N2U1M2U1NC02YzU5LTQwYWEtYjVjNy1iZjYzODEyODFlYzIiDQp9"
+		}
+	}
+}
